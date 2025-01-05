@@ -3,6 +3,7 @@
 
 <head>
     <meta charset="utf-8">
+    <link rel="shortcut icon" type="x-icon" href="{{ asset('assets/images/pbsimpati.png') }}">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <title>Lapangan PB Simpati</title>
